@@ -2,7 +2,9 @@
 Written by  : Shreyas Daniel - github.com/shreydan
 Description : Uses Pythons eval() function
               as a way to implement calculator.
-             
+  
+'Here are the opcions for the calculator'
+
 Functions available:
 --------------------------------------------
                          + : addition
@@ -79,6 +81,8 @@ def main():
                 break
             result(k)
 
-
+'Here are the results of the calculator'
+            
 if __name__ == '__main__':
     main()
+
